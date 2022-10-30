@@ -42,13 +42,6 @@ $('#place').click(function(){
 	$('#hotel span').removeClass('line');
 	$('#ticket span').removeClass('line');
 	$('#place span').addClass('line');
-
-
-
-
-
-
-
 });
 
 
